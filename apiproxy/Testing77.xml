@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="Testing77">
+    <Basepaths>/testing77</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1765188380442</CreatedAt>
+    <CreatedBy>saais@sidgs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Testing77</DisplayName>
+    <LastModifiedAt>1765349428925</LastModifiedAt>
+    <LastModifiedBy>saais@sidgs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f5c18691cde159fea7eec70a6b18d88345d50aecaaa09194c2f92a4f8158cbde8dc794bc82c8ef9e17fbf0e21d18605f32c611ff1ef0695cd75cb1d7298abef1:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Assign-Message-2</Policy>
+        <Policy>Assign-Message3</Policy>
+        <Policy>Decode-JWT-1</Policy>
+        <Policy>Generate-JWT-1</Policy>
+        <Policy>Quota</Policy>
+        <Policy>Response-Cache-1</Policy>
+        <Policy>Spike-Arrest</Policy>
+        <Policy>Verify-JWT-1</Policy>
+        <Policy>verify-api-key</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>JWT Decode</ProxyEndpoint>
+        <ProxyEndpoint>JWT Verification</ProxyEndpoint>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

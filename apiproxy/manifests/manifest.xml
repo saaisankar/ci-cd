@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:26583fe6324d74a309a8c8b0b69dcebe129923baf020ea636e56a5d3c8602af877e62e1e551003a6a36d70a4f1cb59527247c5cf9b44b01c84ae5616b5161070"/>
+        <VersionInfo resourceName="Assign-Message-2" version="SHA-512:b82f4372d2af84788f82ea96d3b24b6168bbd6d0bf5568575f8530cc14220a28420e97501f25a9ab3f637eeaea9f1ea0208ca8566815477e1a72cd9162043828"/>
+        <VersionInfo resourceName="Assign-Message3" version="SHA-512:5b9a188a73e3d4a41cd5343a30477c1f18095e5cbfcc3d652871ff08284895dd8e3dc09f6921358e4249c900d256e22a62c3b4b446485f92f3358f8dab68b2e2"/>
+        <VersionInfo resourceName="Decode-JWT-1" version="SHA-512:10da9891dc3d1991dd73c3829c6b404b69a7fd1a1c44a3b2ed625a8f00bd24289b0c72d96875a95ccff1ff8ca8d89c7ce4b45935bfb01c6be6ad7e0c2af4a43b"/>
+        <VersionInfo resourceName="Generate-JWT-1" version="SHA-512:523fc22b32b676af6817617a98f06acfcab2d2168d2c4d5dd34df2005ca78b0a682d62f131da5f4c9ab62dee181d54ebcf46490808b5049dd2ac6d28df77bb3a"/>
+        <VersionInfo resourceName="Quota" version="SHA-512:662624cae22881e88d4560eb48f71b7b0c8d6aec426165f5354569005b8ebc7bfd42a7e71815fb274c1f73fb6f96ba94de5549937c1b86b48efb1448f9f787b9"/>
+        <VersionInfo resourceName="Response-Cache-1" version="SHA-512:e4d475d116bc46b99a7490b42e7736501d359ee2411357570b5e2955145d6ee432b8e075108378e4b5f409a632982aa61b4c2b13d7b31679c5786568ff4a86d0"/>
+        <VersionInfo resourceName="Spike-Arrest" version="SHA-512:8c789cdabc103ed96239744ca16da0d721ef982e377794d11d10843a4a18555110554476718ec866b42ee0659a83ac9c1a4ec8d817b4b02530975cb9d2b438aa"/>
+        <VersionInfo resourceName="Verify-JWT-1" version="SHA-512:3c2cc19dd8331fa14eb0a655ff726eb7ac8b5c56aa6b94db1898e74cb0bd080c2c25345f23a2ddbd535d43183d0ec77133c03a2233b08feb2f71a5a373872f97"/>
+        <VersionInfo resourceName="verify-api-key" version="SHA-512:f50bda3fb8004531dbaf802e042ee6575c40cec7a979962b81ec38c7de9f78de308e704faa3afa45d17fde1126c1f057a062b64f687c073478c70f0241e155e5"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="JWT Decode" version="SHA-512:331d29c870c54ecc7949f34e3c90d227182fd26dd5a995dd8ebc3ae2e717ece42d6d7d6548d7a1609abaaca0c3a7472414ab787610cdfd541cf60d1fa82e67df"/>
+        <VersionInfo resourceName="JWT Verification" version="SHA-512:c223694ded2de279099d6f8a5186d27463ea3461529680a1dc42ff3a6697cbfca731f74bf13499ccfc3e23071f8e49df216afdaa74029b0276ad7b567f5f7e76"/>
+        <VersionInfo resourceName="default" version="SHA-512:245613f24c78c95b31a094bc1ddee59fd4c4487438a6894b0f4f5de5aa81cd9ea103b6155071a0cd01a82c14592bb14e82ebb006155be7c321edb3f9905f3c55"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a5cea8fcfbcd21496f005585b1ff9640edbbea07a300fc4fdff91767cbdc2b8c59a1164010dee143624afd3ec7152c8257d24ab96f73bc2efc4d7fe2b52a862d"/>
+    </TargetEndpoints>
+</Manifest>
